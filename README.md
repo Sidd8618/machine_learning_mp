@@ -156,9 +156,3 @@ jupyter
 - Machine Learning workflow using Scikit-learn
 
 ---
-
-
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
